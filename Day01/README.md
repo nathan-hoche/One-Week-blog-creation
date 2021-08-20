@@ -62,7 +62,9 @@ Tout d'abords j'aimerais une page d'acceuil, j'aimerais que cette page contienne
 
 ```
 Marvin : Bon comme c'est ta première mission je vais te donner quelques indices!
-Dans le fichier que je t'ai transmis nous avons différentes sections: head et body. Mais qu'est-ce que c'est, head permet de préciser des détails sur le document dans cette exercice, ce sera l'icon et le titre de notre site! Le body quant à lui contient le contenu de la page!
+Dans le fichier que je t'ai transmis nous avons différentes sections: head et body.
+Mais qu'est-ce que c'est, head permet de préciser des détails sur le document dans cette exercice, ce sera l'icon et le titre de notre site!
+Le body quant à lui contient le contenu de la page!
 
 Maintenant dans le fichier donné, tu as deux balises déjà donner, je te laisse essayer de trouver comment les utiliser! 
 ```
@@ -99,7 +101,8 @@ Marvin: Wow je sais pas, c'est bizzare on dirait que c'est quelqu'un d'autre qui
 Ainsi les différentes sections se trouveront sur plusieurs pages séparé, je vous laisse libre de leurs contenus.
 
 ```
-Marvin: Alors d'aprés la demande du client, commencer par crée un nouveau fichier.html et comme tu as préalablement fais la bar de navigation, il faudra un peu la modifier. Tu auras besoin d'utilier la balise <a></a>, avec ça propriété 'href', cette balise te permet de faire un lien pour un autre site internet ou bien une autre page de ton site.
+Marvin: Alors d'aprés la demande du client, commencer par crée un nouveau fichier.html et comme tu as préalablement fais la bar de navigation, il faudra un peu la modifier.
+Tu auras besoin d'utilier la balise <a></a>, avec ça propriété 'href', cette balise te permet de faire un lien pour un autre site internet ou bien une autre page de ton site.
 
 Je te laisserais remplir les différentes pages, je te fais confiance! ;)
 ```
