@@ -40,3 +40,35 @@ Maintenant faisons un test, ouvrons ce fichier avec l'éditeur de texte précéd
 <br><br>
 
 # **Objective**
+
+<img src="https://media1.giphy.com/media/vEJGsXtEE1Sc8/giphy.gif" height="150"/>
+
+> /!\ Attention, vous venez de recevoir un message:
+```
+??? :robot: : Hey! Je suis Marvin et maintenant je suis ton supérieur aux seins de la Compute Compagnie! J'espère que tu vas te plaire chez nous!
+
+Enfin bref nous avons un client un peu benet :/ Et ce sera ta première mission alors je compte sur toi pour faire du bon boulot!
+
+Ils souhaitent faire un blog pour toute sa famille afin que tout le monde puisse découvrir leurs incroyables vies! Le nom du client est Homer Simpsons.
+
+Afin de vous aidez à commencer je vous ai fait un fichier d'exemple regarder le! (il se trouve dans le repository, regarder la liste des fichier sur GitHub)
+
+Voici les demandes du client:
+```
+
+### **Exercice 1**
+
+Tout d'abords j'aimerais une page d'acceuil, j'aimerais que cette page contienne un titre et une icon cool! Moi j'ai pensé à un donut! :doughnut:
+
+```
+Marvin :robot: : Bon comme c'est ta première mission je vais te donner quelques indices!
+Dans le fichier que je t'ai transmis nous avons différentes sections: head et body. Mais qu'est-ce que c'est, head permet de préciser des détails sur le document dans cette exercice, ce sera l'icon et le titre de notre site! Le body quant à lui contient le contenu de la page!
+
+Maintenant dans le fichier donné, tu as deux balises déjà donner, je te laisse essayer de trouver comment les utiliser! 
+```
+
+### **Exercice 2**
+
+Ensuite je veux écrire des trucs, pourquoi pas un titre genre "The Simpsons"? Je trouve que ça claque! :star_struck: Ensuite j'aimerais écrire d'autre mais je sais pas quoi raconter, je vous laisse choisir. :no_mouth:
+
+
