@@ -60,6 +60,8 @@ Voici les demandes du client:
 
 Tout d'abords j'aimerais une page d'acceuil, j'aimerais que cette page contienne un titre et une icon cool! Moi j'ai pensé à un donut! :doughnut:
 
+<br><img src="title.png"><br>
+
 ```
 Marvin : Bon comme c'est ta première mission je vais te donner quelques indices!
 Dans le fichier que je t'ai transmis nous avons différentes sections: head et body.
