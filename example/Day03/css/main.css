@@ -1,0 +1,94 @@
+body {
+    font-family: 'Indie Flower', cursive;
+    background-color: grey;
+    
+}
+
+.title {
+    margin: auto;
+    width: 50%;
+    color:gold;
+}
+
+img {
+    border-radius: 30px;
+    display:inline-block;
+}
+
+.logo:hover {
+    animation: turn-around-anim 1s;
+    position: relative;
+}
+
+@keyframes turn-around-anim {
+    0% {transform:rotate(0deg);}
+    100% {transform: rotate(360deg);}
+}
+
+nav {
+    background-color: white;
+    height: auto;
+    width: auto;
+    border-radius: 30px;
+}
+
+#contact {
+    background-color: white;
+    height: auto;
+    width: auto;
+    border-radius: 30px;
+    padding-left: 20px;
+    padding-top: 2px;
+}
+
+nav > li {
+    display:inline-block;
+    margin-right: 10px;
+}
+
+nav > li > a {
+    font-size: 150%;
+}
+
+.bubule {
+    display: inline-block;
+    border-radius: 30px;
+    background-color: gold;
+}
+
+.bubule > img:hover {
+    opacity: 0;
+}
+
+.bubule > img:hover + .desc {
+    opacity: 1;
+}
+
+.sommaire {
+    background-color: gold;
+    display:inline-block;
+    border-radius: 30px
+}
+
+.desc {
+    position: absolute;
+    opacity: 0;
+}
+
+#love1 {
+    left: 140px;
+    top: 280px;
+    font-size: 200%;
+}
+
+#love2 {
+    left: 725px;
+    top: 280px;
+    font-size: 200%;
+}
+
+#acceuil1 {
+    left: 450px;
+    top: 400px;
+    font-size: 200%;
+}
