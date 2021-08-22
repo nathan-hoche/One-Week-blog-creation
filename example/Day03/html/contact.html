@@ -12,19 +12,21 @@
     <h1 class="title">Homer Simpson</h1>
     <nav>
         <li class="sommaire"><h2>Sommaire</h2></li>
-        <li><a class="nav-select">Accueil</a></li>
-        <li><a href="love.html">Mes coups de coeur</a></li>
-        <li><a href="contact.html" class="nav-select">Contact</a></li>
+        <li><a href="main.html" class="nav-select">Accueil</a></li>
+        <li><a href="love.html" class="nav-select">Mes coups de coeur</a></li>
+        <li><a class="nav-select">Contact</a></li>
     </nav>
     <br>
-    <div class="bubule">
-        <img src="http://www.slate.fr/sites/default/files/styles/1060x523/public/capture_decran_2019-12-19_a_15.png">
-        <a id="acceuil1" class="desc">Ma famille</a>
+    <div id="content">
+        <input type="text" id="name" name="name" placeholder="Ton pseudo">
+        <input type="text" id="comment" name="comment" placeholder="Commentaire?">
+        <button onclick="addFriend()">Be my friend</button>
     </div>
     <br><br>
     <div id="contact">
         <img class="logo" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" height="50" width="50">
-        @HomerLeBG
+        <a class="contact-title">@HomerLeBG</a>
     </div>
+    <script src="../JS/main.js"></script>
 </body>
 </html>

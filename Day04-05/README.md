@@ -21,12 +21,6 @@ Pour vous aidez, vous trouverez sur ce sujet des tutos et des technologies pouva
 
 # **Bootstrap**
 
-Avant tout lors de l'élaboration d'un programme informatique nous allons utiliser un editeur de texte. Un éditeur de texte nous sert à l'écriture du programme, il l'équivalent de Google Docs ou bien Microsft Word pour les développeur informatique.
+# **Mail**
+https://mailtrap.io/blog/javascript-send-email/
 
-Pour cette semaine je vous conseille Sublime Text (sublimetext.com), c'est un éditeur de texte assez sobre et utilisé par de nombreux développeur Web. En alternative, il y a toute fois Visual Studio Code (code.visualstudio.com), qui est plus complet.
-
-> Évidement peu importe l'éditeur de texte que vous choisissez, programmer reste possible!
-
-<br>
-
-# **Le commencement**

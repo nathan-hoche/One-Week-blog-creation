@@ -91,3 +91,34 @@ nav > li > a {
     top: 400px;
     font-size: 200%;
 }
+
+#content-end {
+    margin: auto;
+    width: 50%;
+    font-size: 500%;
+}
+
+#name {
+    border-color: white;
+    border-radius: 30px;
+    height: 100%;
+    width: 15%;
+    font-size: 150%;
+}
+
+#comment {
+    border-color: white;
+    border-radius: 30px;
+    height: 100%;
+    width: 60%;
+    font-size: 150%;
+}
+
+button {
+    border-color: white;
+    background-color: gold;
+    border-radius: 30px;
+    height: 100%;
+    width: 15%;
+    font-size: 150%;
+}
